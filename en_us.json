@@ -1,5 +1,7 @@
 {
   "modmanager.button.open": "Open ModManager",
+  "modmanager.badge.installed": "Installed",
+  "modmanager.badge.outdated": "Outdated",
   "modmanager.categories": "Categories",
   "modmanager.category.updatable": "Updatable mods",
   "modmanager.category.technology": "Technology",
