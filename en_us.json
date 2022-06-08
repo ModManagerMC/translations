@@ -1,7 +1,9 @@
 {
-  "modmanager.button.open": "Open ModManager",
   "modmanager.badge.installed": "Installed",
   "modmanager.badge.outdated": "Outdated",
+  "modmanager.button.open": "Open ModManager",
+  "modmanager.button.next": "Next",
+  "modmanager.button.previous": "Next",
   "modmanager.categories": "Categories",
   "modmanager.category.updatable": "Updatable mods",
   "modmanager.category.technology": "Technology",
@@ -19,5 +21,11 @@
   "modmanager.category.equipment": "Equipment",
   "modmanager.category.misc": "Miscellaneous",
   "modmanager.error.title": "§b§4Error:§r",
-  "modmanager.error.hash": "No SHA-512 or SHA-1 for %s provided"
+  "modmanager.error.hash": "No SHA-512 or SHA-1 for %s provided",
+  "modmanager.sorting.sort": "Sort by",
+  "modmanager.sorting.relevance": "Relevance",
+  "modmanager.sorting.downloads": "Downloads",
+  "modmanager.sorting.follows": "Follows",
+  "modmanager.sorting.updated": "Updated",
+  "modmanager.sorting.newest": "Newest"
 }

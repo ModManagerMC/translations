@@ -1,6 +1,8 @@
 {
   "modmanager.badge.installed": "Kurulu",
   "modmanager.badge.outdated": "Eski",
+  "modmanager.button.next": "Sıradaki Sayfa",
+  "modmanager.button.previous": "Önceki Sayfa",
   "modmanager.button.update": "Güncelle",
   "modmanager.button.install": "Kur",
   "modmanager.button.remove": "Kaldır",
@@ -50,8 +52,6 @@
   "modmanager.sorting.updated": "Güncellik",
   "modmanager.sorting.newest": "En Yeniler",
   "modmanager.search": "Ara...",
-  "modmanager.page.next": "Sıradaki Sayfa",
-  "modmanager.page.previous": "Önceki Sayfa",
   "modmanager.provider.info": "Arama yapmak için varsayılan sağlayıcını değiştirmeni sağlar",
   "modmanager.toast.update.title": "Güncellemeler Mevcut!",
   "modmanager.toast.update.description": "%d mod güncellenebilir durumda",
