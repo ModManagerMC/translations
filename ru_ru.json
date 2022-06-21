@@ -60,7 +60,7 @@
     "modmanager.sorting.downloads": "по скачиваниям",
     "modmanager.sorting.updated": "недавно обновлённые",
     "modmanager.sorting.newest": "новейшие",
-    "modmanager.search": "Поиск...",
+    "modmanager.field.search": "Поиск...",
     "modmanager.provider.info": "Позволяет изменить источник по умолчанию для просмотра",
     "modmanager.toast.update.title": "Доступны обновления!",
     "modmanager.toast.update.description": "Можно обновить модов: %d",

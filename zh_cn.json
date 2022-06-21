@@ -60,7 +60,7 @@
   "modmanager.sorting.downloads": "下载数",
   "modmanager.sorting.updated": "最近更新",
   "modmanager.sorting.newest": "最新上传",
-  "modmanager.search": "搜索...",
+  "modmanager.field.search": "搜索...",
   "modmanager.provider.info": "允许你更改检索时的默认模组来源",
   "modmanager.toast.update.title": "检测到更新!",
   "modmanager.toast.update.description": "%d个模组可更新",

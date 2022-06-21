@@ -60,7 +60,7 @@
   "modmanager.sorting.downloads": "Descargas",
   "modmanager.sorting.updated": "Actualizados",
   "modmanager.sorting.newest": "Nuevos",
-  "modmanager.search": "Buscar...",
+  "modmanager.field.search": "Buscar...",
   "modmanager.provider.info": "Permite cambiar el proveedor predeterminado para buscar",
   "modmanager.toast.update.title": "¡Actualizaciones disponibles!",
   "modmanager.toast.update.description": "%d mods tienen actualizaciones",

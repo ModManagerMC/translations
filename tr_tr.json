@@ -51,7 +51,7 @@
   "modmanager.sorting.downloads": "Yükleme Sayısı",
   "modmanager.sorting.updated": "Güncellik",
   "modmanager.sorting.newest": "En Yeniler",
-  "modmanager.search": "Ara...",
+  "modmanager.field.search": "Ara...",
   "modmanager.provider.info": "Arama yapmak için varsayılan sağlayıcını değiştirmeni sağlar",
   "modmanager.toast.update.title": "Güncellemeler Mevcut!",
   "modmanager.toast.update.description": "%d mod güncellenebilir durumda",
